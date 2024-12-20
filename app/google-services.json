@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "183671971402",
+    "firebase_url": "https://messenger-andr-default-rtdb.firebaseio.com",
+    "project_id": "messenger-andr",
+    "storage_bucket": "messenger-andr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183671971402:android:1ef035dbb0a37191b610b3",
+        "android_client_info": {
+          "package_name": "com.example.marketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDeMKaSJP4XUyqRR9n3qLlby0GgsqYiRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183671971402:android:9efd72e4e60cb845b610b3",
+        "android_client_info": {
+          "package_name": "com.example.messenger_andr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDeMKaSJP4XUyqRR9n3qLlby0GgsqYiRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183671971402:android:d6f37d18b1c4ff92b610b3",
+        "android_client_info": {
+          "package_name": "dem.corp.androidmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDeMKaSJP4XUyqRR9n3qLlby0GgsqYiRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

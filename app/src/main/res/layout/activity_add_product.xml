@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Поле для ввода названия продукта -->
+    <EditText
+        android:id="@+id/et_product_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product Name"
+        android:inputType="text"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Поле для ввода цены продукта -->
+    <EditText
+        android:id="@+id/et_product_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product Price"
+        android:inputType="text"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Поле для ввода идентификатора ресурса изображения -->
+    <EditText
+        android:id="@+id/et_product_image_res_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Image Resource ID"
+        android:inputType="textUri"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Кнопка для сохранения продукта -->
+    <Button
+        android:id="@+id/btn_save_product"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Product"
+        android:padding="12dp" />
+</LinearLayout>
